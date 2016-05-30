@@ -1,6 +1,6 @@
 {
   "name": "node-simple-thumbnail",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Super hiper mega blaster simple thumbnail generator using lwip",
   "main": "src/index.js",
   "scripts": {
