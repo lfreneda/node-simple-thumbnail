@@ -1,8 +1,8 @@
 {
   "name": "node-simple-thumbnail",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Super hiper mega blaster simple thumbnail generator using lwip",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "npm test"
   },
@@ -16,7 +16,8 @@
     "simple",
     "node",
     "simple",
-    "easy"
+    "easy",
+    "light"
   ],
   "author": "Luiz Freneda <lfreneda@gmail.com> (http://www.freneda.com.br)",
   "license": "ISC",
